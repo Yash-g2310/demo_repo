@@ -1,4 +1,6 @@
 # demo_repo
 This is a demo git repo.
 <br>
-Author - Yash Gupta
+Author - Yash Gupta 
+<br>
+learning git
